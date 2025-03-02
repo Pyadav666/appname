@@ -5,7 +5,7 @@ import matchersStandalone from "@testing-library/jest-dom/matchers";
 
 const Home = () => {
     return (
-        <Container fluid className="bg-light">
+        <Container fluid className="bg-dark">
             {/* Hero Section */}
             <Row className="align-items-center text-center py-5 bg-primary text-white" style={{
                 height: "100vh", backgroundImage: "url('https://img.freepik.com/free-photo/wireless-keyboard-cup-coffee-table_140725-8935.jpg?t=st=1740898115~exp=1740901715~hmac=10dd55bdbf9de275ed42000a808cba9804ec54cfeb5515e37ff0ce91e5bd2e23&w=1060')",
